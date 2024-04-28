@@ -1,4 +1,6 @@
 #dos {
     width: 100%;
     aspect-ratio: 800 / 600;
+    max-width: initial;
+    max-height: 100vh;
 }
